@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import logo from '../assets/image.svg'
+import logo from '../assets/logo-bagtag.svg'
 
 function Header() {
   const [menuOpen, setMenuOpen] = useState(false)

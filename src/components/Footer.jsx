@@ -1,4 +1,4 @@
-import logo from '../assets/image.svg'
+import logo from '../assets/logo-bagtag.svg'
 
 function Footer() {
   return (
