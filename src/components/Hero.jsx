@@ -12,7 +12,7 @@ function Hero() {
             Con BagTag localiza tu<br />maleta en tiempo real.
           </h1>
           <p className="hero__subtitle">
-            BagTag es la solución diseñada para aerolíneas que buscan ofrecer a sus pasajeros una experiencia de viaje más segura y transparente.
+            Mejora la experiencia de viaje de tus pasajeros con rastreo de equipaje en tiempo real.
           </p>
           <p className="hero__cta-label">DESCARGA LA APP</p>
           <div className="hero__badges">
